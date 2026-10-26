@@ -1,0 +1,360 @@
+week,channel,device,signups
+2026-W01,Organic,Mobile,325
+2026-W01,Organic,Desktop,195
+2026-W01,Paid Social,Mobile,619
+2026-W01,Paid Social,Desktop,309
+2026-W01,Email,Mobile,210
+2026-W01,Email,Desktop,148
+2026-W01,Referral,Mobile,86
+2026-W01,Referral,Desktop,30
+2026-W02,Organic,Mobile,341
+2026-W02,Organic,Desktop,202
+2026-W02,Paid Social,Mobile,607
+2026-W02,Paid Social,Desktop,305
+2026-W02,Email,Mobile,205
+2026-W02,Email,Desktop,148
+2026-W02,Referral,Mobile,89
+2026-W02,Referral,Desktop,30
+2026-W03,Organic,Mobile,322
+2026-W03,Organic,Desktop,195
+2026-W03,Paid Social,Mobile,603
+2026-W03,Paid Social,Desktop,295
+2026-W03,Email,Mobile,202
+2026-W03,Email,Desktop,141
+2026-W03,Referral,Mobile,85
+2026-W03,Referral,Desktop,30
+2026-W04,Organic,Mobile,324
+2026-W04,Organic,Desktop,180
+2026-W04,Paid Social,Mobile,594
+2026-W04,Paid Social,Desktop,281
+2026-W04,Email,Mobile,189
+2026-W04,Email,Desktop,142
+2026-W04,Referral,Mobile,87
+2026-W04,Referral,Desktop,28
+2026-W05,Organic,Mobile,316
+2026-W05,Organic,Desktop,180
+2026-W05,Paid Social,Mobile,548
+2026-W05,Paid Social,Desktop,279
+2026-W05,Email,Mobile,182
+2026-W05,Email,Desktop,133
+2026-W05,Referral,Mobile,84
+2026-W05,Referral,Desktop,26
+2026-W06,Organic,Mobile,311
+2026-W06,Organic,Desktop,179
+2026-W06,Paid Social,Mobile,580
+2026-W06,Paid Social,Desktop,281
+2026-W06,Email,Mobile,196
+2026-W06,Email,Desktop,138
+2026-W06,Referral,Mobile,81
+2026-W06,Referral,Desktop,28
+2026-W07,Organic,Mobile,311
+2026-W07,Organic,Desktop,190
+2026-W07,Paid Social,Mobile,571
+2026-W07,Paid Social,Desktop,294
+2026-W07,Email,Mobile,198
+2026-W07,Email,Desktop,138
+2026-W07,Referral,Mobile,85
+2026-W07,Referral,Desktop,28
+2026-W08,Organic,Mobile,329
+2026-W08,Paid Social,Mobile,629
+2026-W08,Paid Social,Desktop,306
+2026-W08,Email,Mobile,208
+2026-W08,Email,Desktop,151
+2026-W08,Referral,Mobile,88
+2026-W08,Referral,Desktop,30
+2026-W09,Organic,Mobile,324
+2026-W09,Organic,Desktop,188
+2026-W09,Paid Social,Mobile,610
+2026-W09,Paid Social,Desktop,301
+2026-W09,Email,Mobile,200
+2026-W09,Email,Desktop,149
+2026-W09,Referral,Mobile,93
+2026-W09,Referral,Desktop,30
+2026-W10,Organic,Mobile,319
+2026-W10,Organic,Desktop,195
+2026-W10,Paid Social,Mobile,625
+2026-W10,Paid Social,Desktop,289
+2026-W10,Email,Mobile,200
+2026-W10,Email,Desktop,145
+2026-W10,Referral,Mobile,88
+2026-W10,Referral,Desktop,31
+2026-W11,Organic,Mobile,303
+2026-W11,Organic,Desktop,180
+2026-W11,Paid Social,Mobile,587
+2026-W11,Paid Social,Desktop,274
+2026-W11,Email,Mobile,199
+2026-W11,Email,Desktop,140
+2026-W11,Referral,Mobile,86
+2026-W11,Referral,Desktop,28
+2026-W12,Organic,Mobile,294
+2026-W12,Organic,Desktop,179
+2026-W12,Paid Social,Mobile,584
+2026-W12,Paid Social,Desktop,272
+2026-W12,Email,Mobile,196
+2026-W12,Email,Desktop,136
+2026-W12,Referral,Mobile,84
+2026-W12,Referral,Desktop,28
+2026-W13,Organic,Mobile,312
+2026-W13,Organic,Desktop,184
+2026-W13,Paid Social,Mobile,570
+2026-W13,Paid Social,Desktop,277
+2026-W13,Email,Mobile,189
+2026-W13,Email,Desktop,140
+2026-W13,Referral,Mobile,83
+2026-W13,Referral,Desktop,27
+2026-W14,Organic,Mobile,331
+2026-W14,Organic,Desktop,189
+2026-W14,Paid Social,Mobile,600
+2026-W14,Paid Social,Desktop,298
+2026-W14,Email,Mobile,195
+2026-W14,Email,Desktop,136
+2026-W14,Referral,Mobile,86
+2026-W14,Referral,Desktop,30
+2026-W15,Organic,Mobile,337
+2026-W15,Organic,Desktop,190
+2026-W15,Paid Social,Mobile,604
+2026-W15,Paid Social,Desktop,309
+2026-W15,Email,Mobile,202
+2026-W15,Email,Desktop,145
+2026-W15,Referral,Mobile,88
+2026-W15,Referral,Desktop,31
+2026-W16,Organic,Mobile,337
+2026-W16,Organic,Desktop,192
+2026-W16,Paid Social,Mobile,599
+2026-W16,Paid Social,Desktop,303
+2026-W16,Email,Mobile,207
+2026-W16,Email,Desktop,152
+2026-W16,Referral,Mobile,88
+2026-W16,Referral,Desktop,30
+2026-W17,Organic,Mobile,327
+2026-W17,Organic,Desktop,193
+2026-W17,Paid Social,Mobile,583
+2026-W17,Paid Social,Desktop,285
+2026-W17,Email,Mobile,206
+2026-W17,Email,Desktop,146
+2026-W17,Referral,Mobile,86
+2026-W17,Referral,Desktop,30
+2026-W18,Organic,Mobile,306
+2026-W18,Organic,Desktop,183
+2026-W18,Paid Social,Mobile,599
+2026-W18,Paid Social,Desktop,284
+2026-W18,Email,Mobile,192
+2026-W18,Email,Desktop,137
+2026-W18,Referral,Mobile,81
+2026-W18,Referral,Desktop,28
+2026-W19,Organic,Mobile,312
+2026-W19,Organic,Desktop,179
+2026-W19,Paid Social,Mobile,559
+2026-W19,Paid Social,Desktop,266
+2026-W19,Email,Mobile,195
+2026-W19,Email,Desktop,140
+2026-W19,Referral,Mobile,84
+2026-W19,Referral,Desktop,27
+2026-W20,Organic,Mobile,305
+2026-W20,Organic,Desktop,177
+2026-W20,Paid Social,Mobile,582
+2026-W20,Paid Social,Desktop,275
+2026-W20,Email,Mobile,194
+2026-W20,Email,Desktop,141
+2026-W20,Referral,Mobile,85
+2026-W20,Referral,Desktop,29
+2026-W21,Organic,Mobile,315
+2026-W21,Organic,Desktop,190
+2026-W21,Paid Social,Mobile,617
+2026-W21,Paid Social,Desktop,289
+2026-W21,Email,Mobile,192
+2026-W21,Email,Desktop,147
+2026-W21,Referral,Mobile,87
+2026-W21,Referral,Desktop,30
+2026-W22,Organic,Mobile,320
+2026-W22,Organic,Desktop,186
+2026-W22,Paid Social,Mobile,624
+2026-W22,Paid Social,Desktop,291
+2026-W22,Email,Mobile,203
+2026-W22,Email,Desktop,142
+2026-W22,Referral,Mobile,93
+2026-W22,Referral,Desktop,31
+2026-W23,Organic,Mobile,331
+2026-W23,Organic,Desktop,191
+2026-W23,Paid Social,Mobile,611
+2026-W23,Paid Social,Desktop,291
+2026-W23,Email,Mobile,211
+2026-W23,Email,Desktop,147
+2026-W23,Referral,Mobile,92
+2026-W23,Referral,Desktop,31
+2026-W24,Organic,Mobile,328
+2026-W24,Organic,Desktop,189
+2026-W24,Paid Social,Mobile,591
+2026-W24,Paid Social,Desktop,302
+2026-W24,Email,Mobile,209
+2026-W24,Email,Desktop,146
+2026-W24,Referral,Mobile,90
+2026-W24,Referral,Desktop,30
+2026-W25,Organic,Mobile,309
+2026-W25,Organic,Desktop,181
+2026-W25,Paid Social,Mobile,578
+2026-W25,Paid Social,Desktop,283
+2026-W25,Email,Mobile,201
+2026-W25,Email,Desktop,141
+2026-W25,Referral,Mobile,83
+2026-W25,Referral,Desktop,28
+2026-W26,Organic,Mobile,306
+2026-W26,Organic,Desktop,172
+2026-W26,Paid Social,Mobile,573
+2026-W26,Paid Social,Desktop,270
+2026-W26,Email,Mobile,189
+2026-W26,Email,Desktop,139
+2026-W26,Referral,Mobile,80
+2026-W26,Referral,Desktop,27
+2026-W27,Organic,Mobile,311
+2026-W27,Organic,Desktop,185
+2026-W27,Paid Social,Mobile,576
+2026-W27,Paid Social,Desktop,266
+2026-W27,Email,Mobile,197
+2026-W27,Email,Desktop,131
+2026-W27,Referral,Mobile,86
+2026-W27,Referral,Desktop,27
+2026-W28,Organic,Mobile,327
+2026-W28,Organic,Desktop,185
+2026-W28,Paid Social,Mobile,597
+2026-W28,Paid Social,Desktop,293
+2026-W28,Email,Mobile,192
+2026-W28,Email,Desktop,147
+2026-W28,Referral,Mobile,85
+2026-W28,Referral,Desktop,28
+2026-W29,Organic,Mobile,323
+2026-W29,Organic,Desktop,196
+2026-W29,Paid Social,Mobile,637
+2026-W29,Paid Social,Desktop,288
+2026-W29,Email,Mobile,199
+2026-W29,Email,Desktop,142
+2026-W29,Referral,Mobile,90
+2026-W29,Referral,Desktop,31
+2026-W30,Organic,Mobile,342
+2026-W30,Organic,Desktop,194
+2026-W30,Paid Social,Mobile,632
+2026-W30,Paid Social,Desktop,311
+2026-W30,Email,Mobile,207
+2026-W30,Email,Desktop,146
+2026-W30,Referral,Mobile,211
+2026-W30,Referral,Desktop,74
+2026-W31,Organic,Mobile,320
+2026-W31,Organic,Desktop,183
+2026-W31,Paid Social,Mobile,617
+2026-W31,Paid Social,Desktop,292
+2026-W31,Email,Mobile,197
+2026-W31,Email,Desktop,141
+2026-W31,Referral,Mobile,85
+2026-W31,Referral,Desktop,30
+2026-W32,Organic,Mobile,323
+2026-W32,Organic,Desktop,182
+2026-W32,Paid Social,Mobile,586
+2026-W32,Paid Social,Desktop,292
+2026-W32,Email,Mobile,194
+2026-W32,Email,Desktop,137
+2026-W32,Referral,Mobile,85
+2026-W32,Referral,Desktop,29
+2026-W33,Organic,Mobile,295
+2026-W33,Organic,Desktop,171
+2026-W33,Paid Social,Mobile,562
+2026-W33,Paid Social,Desktop,268
+2026-W33,Email,Mobile,183
+2026-W33,Email,Desktop,134
+2026-W33,Referral,Mobile,85
+2026-W33,Referral,Desktop,29
+2026-W34,Organic,Mobile,301
+2026-W34,Organic,Desktop,181
+2026-W34,Paid Social,Mobile,571
+2026-W34,Paid Social,Desktop,265
+2026-W34,Email,Mobile,187
+2026-W34,Email,Desktop,135
+2026-W34,Referral,Mobile,84
+2026-W34,Referral,Desktop,28
+2026-W35,Organic,Mobile,318
+2026-W35,Organic,Desktop,185
+2026-W35,Paid Social,Mobile,605
+2026-W35,Paid Social,Desktop,289
+2026-W35,Email,Mobile,202
+2026-W35,Email,Desktop,141
+2026-W35,Referral,Mobile,86
+2026-W35,Referral,Desktop,29
+2026-W36,Organic,Mobile,344
+2026-W36,Organic,Desktop,179
+2026-W36,Paid Social,Mobile,605
+2026-W36,Paid Social,Desktop,297
+2026-W36,Email,Mobile,208
+2026-W36,Email,Desktop,151
+2026-W36,Referral,Mobile,91
+2026-W36,Referral,Desktop,29
+2026-W37,Organic,Mobile,323
+2026-W37,Organic,Desktop,177
+2026-W37,Paid Social,Mobile,605
+2026-W37,Paid Social,Desktop,306
+2026-W37,Email,Mobile,203
+2026-W37,Email,Desktop,144
+2026-W37,Referral,Mobile,92
+2026-W37,Referral,Desktop,31
+2026-W38,Organic,Mobile,323
+2026-W38,Organic,Desktop,168
+2026-W38,Paid Social,Mobile,284
+2026-W38,Paid Social,Desktop,303
+2026-W38,Email,Mobile,202
+2026-W38,Email,Desktop,147
+2026-W38,Referral,Mobile,90
+2026-W38,Referral,Desktop,29
+2026-W39,Organic,Mobile,320
+2026-W39,Organic,Desktop,153
+2026-W39,Paid Social,Mobile,593
+2026-W39,Paid Social,Desktop,281
+2026-W39,Email,Mobile,187
+2026-W39,Email,Desktop,134
+2026-W39,Referral,Mobile,81
+2026-W39,Referral,Desktop,29
+2026-W40,Organic,Mobile,316
+2026-W40,Organic,Desktop,141
+2026-W40,Paid Social,Mobile,582
+2026-W40,Paid Social,Desktop,283
+2026-W40,Email,Mobile,182
+2026-W40,Email,Desktop,133
+2026-W40,Referral,Mobile,80
+2026-W40,Referral,Desktop,28
+2026-W41,Organic,Mobile,310
+2026-W41,Organic,Desktop,143
+2026-W41,Paid Social,Mobile,577
+2026-W41,Paid Social,Desktop,280
+2026-W41,Email,Mobile,186
+2026-W41,Email,Desktop,131
+2026-W41,Referral,Mobile,81
+2026-W41,Referral,Desktop,28
+2026-W42,Organic,Mobile,317
+2026-W42,Organic,Desktop,146
+2026-W42,Paid Social,Mobile,590
+2026-W42,Paid Social,Desktop,295
+2026-W42,Email,Mobile,386
+2026-W42,Email,Desktop,147
+2026-W42,Referral,Mobile,89
+2026-W42,Referral,Desktop,30
+2026-W43,Organic,Mobile,331
+2026-W43,Organic,Desktop,135
+2026-W43,Paid Social,Mobile,599
+2026-W43,Paid Social,Desktop,288
+2026-W43,Email,Mobile,200
+2026-W43,Email,Desktop,152
+2026-W43,Referral,Mobile,87
+2026-W43,Referral,Desktop,29
+2026-W44,Organic,Mobile,344
+2026-W44,Organic,Desktop,140
+2026-W44,Paid Social,Mobile,615
+2026-W44,Paid Social,Desktop,301
+2026-W44,Email,Mobile,211
+2026-W44,Email,Desktop,152
+2026-W44,Referral,Mobile,91
+2026-W44,Referral,Desktop,30
+2026-W45,Organic,Mobile,328
+2026-W45,Organic,Desktop,131
+2026-W45,Paid Social,Mobile,595
+2026-W45,Paid Social,Desktop,294
+2026-W45,Email,Mobile,195
+2026-W45,Email,Desktop,145
+2026-W45,Referral,Mobile,87
+2026-W45,Referral,Desktop,29
